@@ -104,8 +104,10 @@ if (!$conn) {
                 <a href="?logout" class="btn btn-link" style="text-decoration: none; color: white; font-family: 'Montserrat';">
                     <ion-icon name="log-out-outline"></ion-icon>Logout 
 
-                <a href="?signup" class="btn btn-link" style="text-decoration: none; color: white; font-family: 'Montserrat';">
-                 <ion-icon name="person-add-outline"></ion-icon> Sign up
+                <a href="signup.php" class="btn btn-link" style="text-decoration: none; color: white; font-family: 'Montserrat';">
+                 <ion-icon name="person-add-outline"></ion-icon> Sign up    
+                
+                 
 </a>
 
             </div>
